@@ -1,1 +1,2 @@
-git.test@gmail.com
+primary email: git.test@gmail.com
+alternate email: git.dev@gmail.com
