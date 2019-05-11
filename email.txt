@@ -2,3 +2,4 @@ primary email: git.test@gmail.com
 alternate email: git.dev@gmail.com
 
 Name: Git Tester
+Phone: 1236547785
