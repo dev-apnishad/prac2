@@ -1,1 +1,1 @@
-git.test@gmal.com
+git.test@gmail.com
